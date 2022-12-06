@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Vootlavenky63/node-Express-backend-for-library#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
